@@ -1,5 +1,5 @@
 # labba5
-
+![image](https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Anti-Mage_icon.png/revision/latest?cb=20200916215957) 
 ## Anti-Mage 7.35d guide
 > "Anti Mage, также известный как Magina, — представитель магической расы Quel’Thalas. Его главная роль в игре - уничтожение магии и уязвимых целей с помощью своего атакующего стиля.."
 
